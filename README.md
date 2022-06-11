@@ -1,4 +1,4 @@
-![Start](https://github.com/otalhan/is-han/blob/main/GitHubEND.png)
+![Start](https://github.com/otalhan/otalhan/blob/main/GitHubEND.png)
 # Hi, I'm han.! :D 👌
 
 ### Sobre mim
@@ -16,4 +16,4 @@
 </div>
 
 <br> <a href="https://instagram.com/lucsk8t" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-![end](https://github.com/otalhan/is-han/blob/main/GitHubEND.png)
+![end](https://github.com/otalhan/otalhan/blob/main/GitHubEND.png)
