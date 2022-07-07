@@ -4,7 +4,7 @@
 ### Sobre mim
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/otalhan">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=otalhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otalhan&layout=compact&langs_count=7&theme=dark"/>
 </div>
